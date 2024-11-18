@@ -2,7 +2,7 @@ CC = gcc
 
 CFLAGS = -Wall -Wextra -O2
 
-SRC = src/main.c src/aux.c src/args.c
+SRC = source/main.c source/aux.c source/args.c
 
 OUT = relocdoctor
 
