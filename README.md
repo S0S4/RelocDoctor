@@ -65,7 +65,7 @@ make
 
     ```bash
 
-       ./relocdoctor -f main -n "puts@GLIBC_2.0" -o 0804c004 -i "00000107" -r "0804c008"
+       ./relocdoctor -f "main" -n "puts@GLIBC_2.0" -o "0804c004" -i "00000107" -r "0804c008"
 
     ```
 
